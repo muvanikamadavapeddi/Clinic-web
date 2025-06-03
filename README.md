@@ -55,8 +55,11 @@ Welcome to **PhysioCare**, a modern physiotherapy clinic website built using Rea
    ```bash
    git clone https://github.com/muvanikamadavapeddi/clinic-web.git
 2. Navigate to the project directory:
+   ```bash
    cd my-app
 3. Install dependencies:
+   ```bash
    npm install
-4. Start the development server:
+5. Start the development server:
+   ```bash
    npm start
